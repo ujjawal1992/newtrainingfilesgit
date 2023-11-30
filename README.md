@@ -1,0 +1,2 @@
+# newtrainingfilesgit
+mytrainingdata
